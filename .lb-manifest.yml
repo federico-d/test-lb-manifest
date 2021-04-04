@@ -1,0 +1,11 @@
+{
+  "manifestVersion": "5.44",
+  "name": "urn:lb:edgeservices:_626y",
+  "version": "ABCDEFGHIJKL",
+  "publisher": "ABCDEFGHIJKLMNOPQR",
+  "description": "ABCDEFGHIJKLMNOPQRSTU",
+  "requiredServices": [],
+  "deniedServices": [],
+  "compatibleHW": [],
+  "composeTemplates": []
+}
